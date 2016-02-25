@@ -1,0 +1,12 @@
+<templateSet group="PHP">
+  <template name="php" value="&lt;?php ?&gt;" shortcut="TAB" description="php tag" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+  <template name="phpv" value="&lt;?= ?&gt;" description="php tag" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
