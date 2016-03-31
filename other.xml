@@ -16,6 +16,6 @@
     </entry>
   </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="/usr/bin/node" version="5.7.1" last-modified="1456984550000" />
+    <node-interpreter path="/usr/bin/node" version="5.9.1" last-modified="1458844439000" />
   </component>
 </application>
