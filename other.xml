@@ -15,7 +15,11 @@
       </profile-state>
     </entry>
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="$APPLICATION_HOME_DIR$/bin/C:/Program Files/nodejs/node.exe" />
+    <local-interpreter path="/usr/bin/node" />
+  </component>
   <component name="NodeLocalInterpreterManager">
-    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="5.6.0" last-modified="1455028014000" />
+    <node-interpreter path="C:/Program Files/nodejs/node.exe" version="(Does not exist)" last-modified="1465467994815" />
   </component>
 </application>
